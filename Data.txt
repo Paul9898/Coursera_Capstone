@@ -1,1 +1,0 @@
-The data set include 37 attributes. The attributes mainly incluedes the location, severity, collision type, number of pedestrians,bicyles, and vehicles involved, injuries and fatalities, time, weather, road condition, light condition, and speed. The information is too much, and therefore, we should select only some of them which are highly related to the prediction.
